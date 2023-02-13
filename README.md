@@ -5,7 +5,7 @@ I started programming courses at one of the best programming universities in Bul
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [yulian.bratanov16@gmail.com](mailto:yulian.bratanov16@gmail.com)
-* 🧠  I'm learning C# Advance
+* 🧠  I'm learning JS & C# Advance
 
 ### Skills
 
