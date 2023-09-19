@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yuliyan Bratanov
 ========================================================================================================================================
 
-I started programming courses at one of the best programming universities in Bulgaria - SoftUni( http://https://softuni.bg ). I successfully passed the BASIC-JavaScript course , after which I also requested Fundametals JS and C# , I also started the advanced course with JS. I am aiming to learn the entire Softuni track for FrontEnd Web developer, then BackEnd and reach Fullstack.
+I am very interested in Web Development, I watch a lot of videos on the Internet and various websites. Now in September I start an online course in Berlin. It is for Web Developers.
+I want to start with Front End, Back End and finally Full Stack. After that, I would also focus on Software Development.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [yulian.bratanov16@gmail.com](mailto:yulian.bratanov16@gmail.com)
