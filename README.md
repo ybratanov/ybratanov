@@ -6,8 +6,8 @@ I want to start with Front End, Back End and finally Full Stack. After that, I w
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [yulian.bratanov16@gmail.com](mailto:yulian.bratanov16@gmail.com)
-* 🧠  I'm learning JS & C# Advance
-
+* 🧠  I'm learning JS & C#
+* 🧠  I'm learning in the Curse , HTML & CSS
 ### Skills
 
 <p align="left">
