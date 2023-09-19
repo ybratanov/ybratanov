@@ -1,30 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yuliyan Bratanov
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Yuliyan</h1>
+<h3 align="center">I want to develop in the IT field and start as a web developer</h3>
 
-I am very interested in Web Development, I watch a lot of videos on the Internet and various websites. Now in September I start an online course in Berlin. It is for Web Developers.
-I want to start with Front End, Back End and finally Full Stack. After that, I would also focus on Software Development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybratanov&label=Profile%20views&color=0e75b6&style=flat" alt="ybratanov" /> </p>
 
-* 🌍  I'm based in Berlin
-* ✉️  You can contact me at [yulian.bratanov16@gmail.com](mailto:yulian.bratanov16@gmail.com)
-* 🧠  I'm learning JS & C#
-* 🧠  I'm learning in the Curse , HTML & CSS
-### Skills
+- 🌱 I’m currently learning **Course for web development**
 
+- 💬 Ask me about **Starting with HTML, CSS and Js**
+
+- 📄 Know about my experiences [I love learning new things and would start as a web . First front end, then backend, I even want to become a full stack. I would even study for Software Developer and Gaming](I love learning new things and would start as a web . First front end, then backend, I even want to become a full stack. I would even study for Software Developer and Gaming)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-
+<a href="https://linkedin.com/in/yuliyan bratanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuliyan bratanov" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/ybratanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### Badges
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybratanov&show_icons=true&locale=en&layout=compact" alt="ybratanov" /></p>
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybratanov&show_icons=true&locale=en" alt="ybratanov" /></p>
 
-<a href="http://www.github.com/ybratanov"><img src="https://github-readme-stats.vercel.app/api?username=ybratanov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ybratanov's GitHub stats" /></a>
-
-<a href="http://www.github.com/ybratanov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ybratanov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/ybratanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybratanov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybratanov&" alt="ybratanov" /></p>
